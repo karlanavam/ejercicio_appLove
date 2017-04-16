@@ -69,6 +69,36 @@ header {
   letter-spacing: 2px;
 }
 
+#work {
+  margin: 0 auto;
+  align-items: center;
+}
+
+#work .container  h2{
+  margin-left: 570px;
+}
+
+#work .box-work{
+  width: 20%;
+  display: inline-block;
+  margin-left: 115px;
+  margin-right: 30px;
+  margin-top: 30px;
+}
+
+#work .work-img {
+  margin-left: 225px;
+}
+
+#work .box-work img{
+  width: 100%;
+}
+
+#work h4 {
+  text-align: center;
+
+}
+
 footer {
   font-size: 12px;
   text-align: center;
